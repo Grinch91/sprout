@@ -1,0 +1,5 @@
+scripts/master.zip
+scripts/pyenergenie-master/*
+scripts/ENER002.py
+.*
+!/.gitignore
